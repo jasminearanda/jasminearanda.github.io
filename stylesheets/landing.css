@@ -75,8 +75,9 @@ FONTS
     font-family: 'Audiowide', cursive;
 }
 
-html{
-    background-color:2B0002;
+body{
+    background-color:#2E1333;
+    
 }
 /**********************************
 COLORS and BACKGROUNDS
@@ -102,4 +103,9 @@ footer{
 
 .portrait_name{
     background: rgba(230, 230, 230, 0.7);
+}
+
+.navbar-header{
+    color:green;
+    
 }
