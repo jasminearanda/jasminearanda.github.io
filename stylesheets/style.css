@@ -23,8 +23,15 @@ HEADER
 /**********************************
 MAIN CONTENT
 ***********************************/
+img{
+    max-width:auto;
+    max-height:300px;
+}
 
-
+.thumbnail {
+  background-color:black;
+  border:none;
+}
 /**********************************
 FOOTER - Layout and Sizing
 ***********************************/
@@ -50,8 +57,11 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
-
+body {
+  background:black;
+}
 .navbar{
-    background:#AAB3B6;
-    font:black;
+    background:#2E1333;
+    border:none;
+    
 }
