@@ -105,4 +105,7 @@ footer{
     background: rgba(230, 230, 230, 0.7);
 }
 
+content h3, content .caption p{
+    color:white;
+}
 
