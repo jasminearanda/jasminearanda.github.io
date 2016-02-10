@@ -61,8 +61,10 @@ body {
   background:black;
 
 }
-.navbar{
+body > nav{
     background:#2E1333;
     border:none;
     
+
 }
+
