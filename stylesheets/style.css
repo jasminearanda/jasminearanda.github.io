@@ -36,6 +36,12 @@ img{
 .horizontal_img {
   
 }
+
+.preview{
+ width:75px;
+ height:75px;
+  
+}
 /**********************************
 FOOTER - Layout and Sizing
 ***********************************/
@@ -63,7 +69,7 @@ Color 1:
 ***********************************/
 body {
   background:black;
-
+color:#ccc;
 }
 body > nav{
     background:#2E1333;
