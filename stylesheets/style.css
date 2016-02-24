@@ -71,9 +71,11 @@ body {
   background:black;
 color:#ccc;
 }
+
 body > nav{
     background:#2E1333;
     border:none;
+    
     
 
 }

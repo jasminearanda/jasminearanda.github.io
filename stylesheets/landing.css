@@ -72,11 +72,12 @@ PAGE: _______
 FONTS
 ***********************************/
 .portrait_name{
-    font-family: 'Audiowide', cursive;
+ font-family: 'Merriweather', serif;
 }
 
 body{
     background-color:black;
+    
     
 }
 /**********************************
@@ -93,11 +94,12 @@ article{
 }
 
 footer{
-    background:#eee;
+    background:black;
+    color:#291625;
 }
 
 .jumbotron{
-  background: url('http://i1045.photobucket.com/albums/b452/jazzylovesbieber13/46275997-ECD8-4F5A-98A7-7083424D838A_zps9i6vhjot.jpg') no-repeat center;
+  background: url('https://picjumbo.imgix.net/HNCK0599.jpg?q=40&w=1650&sharp=30') no-repeat center;
   background-size: cover;
 }
 
@@ -112,5 +114,9 @@ content h3, content .caption p{
 .thumbnail{
     background:black;
     border:none;
+}
+
+p{
+    
 }
 
