@@ -45,7 +45,9 @@ img{
 /**********************************
 FOOTER - Layout and Sizing
 ***********************************/
-
+footer{
+    color:#510D69;
+}
 
 /**********************************
 PAGE: _______
@@ -72,11 +74,20 @@ body {
 color:#ccc;
 }
 
-body > nav{
+body > nav > a{
     background:#2E1333;
     border:none;
     
-    
-
 }
 
+navtext{
+    color:#800080;
+}
+ 
+ h1{
+     color:#510D69;
+ }
+ 
+ /*#bs-example-navbar-collapse-1 > ul > li > a{*/
+ /*    color:#291625;*/
+ /*}*/

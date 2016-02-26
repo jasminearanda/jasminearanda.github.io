@@ -95,7 +95,7 @@ article{
 
 footer{
     background:black;
-    color:#291625;
+   color:#510D69;
 }
 
 .jumbotron{
@@ -116,7 +116,8 @@ content h3, content .caption p{
     border:none;
 }
 
-p{
+.thumbnail h3{
+    color:#510D69;
     
 }
 
